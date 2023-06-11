@@ -18,17 +18,10 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 
 export const navLinks = [
-  {
-    id: "about",
-    title: "About",
-  },
   {
     id: "work",
     title: "Work",
@@ -37,6 +30,11 @@ export const navLinks = [
     id: "experience",
     title: "Experience",
   },
+  {
+    id: "about",
+    title: "About",
+  },
+
 ];
 
 const technologies = [
