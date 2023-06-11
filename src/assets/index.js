@@ -6,6 +6,8 @@ import close from "./close.svg";
 import LinkedIn from "./LinkedIn.png";
 import github_black from "./github-black.png";
 import pin_icon from "./pin-icon.png";
+import project1 from "./project1.png"
+import project2 from "./project2.png"
 
 import profile_picture from "./profile_picture.png"
 
@@ -34,6 +36,8 @@ import tripguide from "./tripguide.png";
 
 
 export {
+  project1,
+  project2,
   github_black,
   pin_icon,
   LinkedIn,

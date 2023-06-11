@@ -1,5 +1,7 @@
 import {
   web,
+  project1,
+  project2,
   javascript,
   typescript,
   html,
@@ -141,7 +143,7 @@ const projects = [
   {
     name: "AI Image Generation",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A image generation website inspired by the technology of Dall-e. Users can bring their wildest imaginations to life through the power of artificial intelligence. Simply describe your desired image in words, and our advanced algorithms will generate stunning visuals that match your description.",
     tags: [
       {
         name: "react",
@@ -156,29 +158,29 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: project2,
+    source_code_link: "https://github.com/JReal10/AI_Image_Generation",
   },
   {
     name: "Nail Salon Sharon",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "nail-salon appointment booking application that has a features such as live interactive booking system, a simple database manipulation system for the employer/admin for the employers with no technical background and a live salon statistics system.",
     tags: [
       {
-        name: "react",
+        name: "react native",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "javaScript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "firebase",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: project1,
+    source_code_link: "https://github.com/JReal10/Booking-application-",
   },
 ];
 
